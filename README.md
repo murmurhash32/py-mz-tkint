@@ -1,1 +1,1 @@
-# py-mz-tkint
+# a-maze-ing tkinter
