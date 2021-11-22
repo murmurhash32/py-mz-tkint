@@ -3,10 +3,10 @@ import pandas as pd
 
 
 def path_build():
-	head
+	#head
 
 
-def path_walls(canvas, line_distance):
+def build_walls(canvas, line_distance):
 	canvas.create_line(10, 0, 10, 10, fill="Black")
 	canvas.create_line(10, 10, 20, 10, fill="Black")
 
@@ -32,5 +32,5 @@ if __name__ == "__main__":
 	c = Canvas(master, width=canvas_width, height=canvas_height)
 	c.pack()
 
-	path_walls(c, 20)
+	build_walls(c, 20)
 	mainloop()
