@@ -1,9 +1,11 @@
 from tkinter import *
 import pandas as pd
+import numpy as np
 
 
 def path_build():
-	#head
+	pass
+	# head = 
 
 
 def build_walls(canvas, line_distance):
