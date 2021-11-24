@@ -5,7 +5,7 @@ import numpy as np
 
 def path_build():
 	pass
-	# head = 
+	# head
 
 
 def build_walls(canvas, line_distance):
