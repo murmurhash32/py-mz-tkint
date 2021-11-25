@@ -5,7 +5,6 @@ import numpy as np
 
 def path_build():
 	pass
-	# head
 
 
 def build_walls(canvas, line_distance):
@@ -26,7 +25,6 @@ def path_color(canvas):
 if __name__ == "__main__":
 	#Black = "#000000"
 	#Blue = "#0000FF"
-
 
 	master = Tk()
 	canvas_width = 200
