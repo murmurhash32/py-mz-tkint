@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-def path_build():
+def path_build(): 
 	pass
 
 
@@ -24,7 +24,6 @@ def path_color(canvas):
 
 if __name__ == "__main__":
 	#Black = "#000000"
-	#Blue = "#0000FF"
 
 	master = Tk()
 	canvas_width = 200
