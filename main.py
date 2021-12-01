@@ -8,7 +8,6 @@ def path_build():
 	pass
 
 
-
 def build_walls(canvas, line_distance):
 	canvas.create_line(10, 0, 10, 10, fill="Black")
 	canvas.create_line(10, 10, 20, 10, fill="Black")
@@ -26,7 +25,7 @@ def path_color(canvas):
 
 if __name__ == "__main__":
 	#Black = "#000000"
-	
+
 	master = Tk()
 	canvas_width = 200
 	canvas_height = 200 
