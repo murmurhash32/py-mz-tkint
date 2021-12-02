@@ -18,6 +18,7 @@ def build_walls(canvas, line_distance):
 		canvas.create_line(0, y, canvas_width, y, fill="Black")
 
 
+
 def path_color(canvas):
 	canvas.create_rectangle(10,10,20,20, fill = "Blue")
 
