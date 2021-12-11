@@ -3,10 +3,12 @@ import pandas as pd
 import numpy as np
 import random
 
+PATHCOLOR = "Blue"
+WALLCOLOR = "Black" # "#000000"
+
 
 def path_build(): 
 	pass
-	
 
 
 def build_walls(canvas, dist_btw_lines):
@@ -44,7 +46,6 @@ def hitomezashi(canvas, dist_btw_lines):
 
 
 if __name__ == "__main__":
-	#Black = "#000000"
 
 	master = Tk()
 	canvas_width = 500
