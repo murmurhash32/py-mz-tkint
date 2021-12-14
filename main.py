@@ -4,7 +4,7 @@ import numpy as np
 import random
 
 
-PATHCOLOR = "Blue"
+PATHCOLOR = "Blue"	# "#0000FF"
 WALLCOLOR = "Black" # "#000000"
 
 
