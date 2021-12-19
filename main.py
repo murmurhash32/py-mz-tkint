@@ -48,6 +48,7 @@ def hitomezashi(canvas, dist_btw_lines):
 
 
 
+
 if __name__ == "__main__":
 
 	master = Tk()
