@@ -47,9 +47,7 @@ def hitomezashi(canvas, dist_btw_lines):
 
 
 
-
-if __name__ == "__main__":
-
+def main():
 	master = Tk()
 	canvas_width = 500
 	canvas_height = 500 
@@ -59,3 +57,9 @@ if __name__ == "__main__":
 	#build_walls(c, 10)
 	hitomezashi(c,10)
 	mainloop()
+
+
+if __name__ == "__main__":
+	main()
+
+	
