@@ -47,6 +47,7 @@ def hitomezashi(canvas, dist_btw_lines):
 
 
 
+
 def main():
 	master = Tk()
 	canvas_width = 500
