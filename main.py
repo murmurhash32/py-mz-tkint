@@ -39,7 +39,6 @@ def hitomezashi(canvas, dist_btw_lines):
 			for i in range(0, canvas_width, 2*dist_btw_lines):
 				canvas.create_line(i, y, i+dist_btw_lines+1, y, fill="Black")
 
-
 #def path_color(canvas):
 #	canvas.create_rectangle(10,10,20,20, fill = "Blue")
 
